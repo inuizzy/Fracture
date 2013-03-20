@@ -1,0 +1,6 @@
+[C:\Users\Falcon\Documents\Fracture\_error.log.txt]
+
+AngelScript ERROR (C:\Users\Falcon\Documents\Fracture\main.angelscript line 30): 
+If with empty statement
+ERROR - Failed while building module.
+ERROR - ETHEngine::StartEngine: the script has set no scene to load.
